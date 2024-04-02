@@ -1,2 +1,2 @@
 maven jenkins demo
-webhooks
+use git web hook
